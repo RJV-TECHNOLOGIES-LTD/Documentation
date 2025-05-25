@@ -17,16 +17,16 @@ type TocData = {
 export const TocData: TocData = {
   'getting-started/introduction': [
     {
-      title: 'Welcome to Pinexio',
+      title: 'Welcome to RJV TECHNOLOGIES LTD',
       href: '/docs/getting-started/introduction#welcome-to-pinexio',
       pages: [
         {
-          title: 'Why Choose Pinexio',
+          title: 'Why Choose RJV TECHNOLOGIES LTD',
           href: '/docs/getting-started/introduction#why-choose-pinexio',
         },
 
         {
-          title: 'What Makes Pinexio Special',
+          title: 'What Makes RJV TECHNOLOGIES LTD Special',
           href: '/docs/getting-started/introduction#what-makes-pinexio-special',
         },
       ],

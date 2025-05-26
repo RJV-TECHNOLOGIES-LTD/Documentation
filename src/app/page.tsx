@@ -64,9 +64,7 @@ export default function Home() {
               transition={{ duration: 0.6, delay: 0.4 }}
               className="text-shadow-lg mt-6 text-lg text-gray-600 dark:text-gray-300 max-w-2xl mx-auto"
             >
-              A customizable open-source documentation template built with
-              Next.js 15, Tailwind CSS 4, and Contentlayer for beautiful, fast,
-              and flexible documentation.
+              A RJVTECHNOLOGIES LTD Documentation.
             </motion.p>
           </div>
 
@@ -148,7 +146,7 @@ export default function Home() {
               className="px-4 py-2 text-sm font-medium gap-2"
               onClick={() =>
                 window.open(
-                  'https://vercel.com/new/clone?repository-url=https://github.com/sanjayc208/pinexio',
+                  'https://vercel.com/new/clone?repository-url=https://github.com/RJV-TECHNOLOGIES-LTD/Documentations.git',
                   '_blank'
                 )
               }
@@ -164,7 +162,7 @@ export default function Home() {
             </Button>
             <div className="flex text-sm text-right gap-3">
               <p>
-                Built with ❤️ by <strong>Sanjay Rajeev</strong>
+                Built with ❤️ by <strong>Ricardo Jorge do Vale</strong>
               </p>
             </div>
           </div>
